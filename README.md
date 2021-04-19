@@ -1,0 +1,2 @@
+- Use image_prep/synthesis/syn_manager.py to create synthetic images
+- Use models/unet/unet_1024.py to run detection model and get accuracy
